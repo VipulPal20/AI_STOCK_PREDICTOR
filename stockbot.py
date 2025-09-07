@@ -1,12 +1,4 @@
-#!/usr/bin/env python
-"""
-StockBot
 
-https://github.com/shirosaidev/stockbot
-
-Copyright (C) Chris Park (shirosai) 2021
-stockbot is released under the Apache 2.0 license. See
-LICENSE for the full license text.
 """
 
 import os, sys
@@ -193,7 +185,7 @@ Alpaca algo stock trading bot.""".format(STOCKBOT_VERSION)
     |__   |  _| . |  _| '_| __ -| . |  _|
     |_____|_| |___|___|_,_|_____|___|_|  
     StockBot v{0}    +$ = :)  -$ = ;(\n
-    https://github.com/shirosaidev/stockbot\033[0m\n\n""".format(STOCKBOT_VERSION)
+   
 
     print(banner)
     
